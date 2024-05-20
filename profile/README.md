@@ -1,4 +1,4 @@
-# [4조_뎁민정음] 데브말싸미 _ 테오의 스프린트 17기
+# 개발 용어 발음 사전 서비스: 데브말ㅆㆍ미
 
 <p align="center">
 <img width="1920" alt="서비스 소개" src="https://github.com/Devminjeong-eum/frontend/assets/55550034/7abcf4af-a78d-4183-8980-8978556da2e8">
